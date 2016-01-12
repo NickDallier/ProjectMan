@@ -1,5 +1,5 @@
 # ProjectMan
-A private repository for code to be used in our Project Management course.
+A not-so-private repository for code to be used in our Project Management course.
 
 Make sure it is commented (GINO) so that we can understand what you are trying to do (GINO).
 
