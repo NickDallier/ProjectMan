@@ -1,0 +1,2 @@
+C:\01 Programs\GitHub\ProjectMan\Source\iTunes2\iTunes2\bin\Debug\iTunes2.exe.config
+C:\01 Programs\GitHub\ProjectMan\Projects\iTunes2\iTunes2\bin\Debug\iTunes2.exe.config
